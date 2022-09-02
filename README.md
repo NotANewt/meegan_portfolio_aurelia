@@ -1,5 +1,14 @@
 # `meegan_portfolio_aurelia`
 
+## helpful tutorials
+
+I am using the following tutorials/guides for this project:
+https://www.tutorialspoint.com/aurelia/aurelia_components.htm
+
+https://riptutorial.com/aurelia/example/6613/creating-a-custom-element-based-on-naming-conventions
+
+https://aurelia.io/docs/tutorials/creating-a-contact-manager#adding-a-loading-indicator
+
 This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
 
 For more information, go to https://aurelia.io/docs/cli/webpack
