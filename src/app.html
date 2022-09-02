@@ -1,5 +1,16 @@
 <template>
-  <require from="./assets/css/styles.css"></require>
 
+  <require from="bootstrap/dist/css/bootstrap.min.css"></require>
+  <!-- css -->
+  <require from="./assets/css/styles.css"></require>
+  <!-- bringing in components with require -->
+  <require from="./components/header/header.html"></require>
+  <require from="./components/footer/footer.html"></require>
+
+  <!-- header component -->
+  <header></header>
+  <router-view></router-view>
+  <!-- footer component -->
+  <footer></footer>
 
 </template>
